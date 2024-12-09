@@ -1,0 +1,4 @@
+logmagix==2.0.3
+PyYAML==6.0.1
+PyYAML==6.0.2
+Requests==2.32.3

@@ -1,0 +1,7 @@
+Threads: 1 # Number of threads to use
+
+Usernames_to_gen: 1000 # Number of usernames to generate
+Username_min_length: 6 # Minimum length of the username min: 2
+Username_max_length: 32 # Maximum length of the username max: 32
+
+Mode: "generate" # Mode to use, "generate", "check" or "both"
